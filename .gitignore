@@ -1,0 +1,11 @@
+# Data
+/data_options/
+
+# Betfair Work
+/diffsim_betfair/
+
+#TabDDPM
+/tab-ddpm/
+
+# Some Screenshot
+*.png
