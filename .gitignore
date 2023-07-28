@@ -12,3 +12,6 @@
 
 # Cache
 __pycache__/
+
+# Zip of Report and Result
+*.zip
