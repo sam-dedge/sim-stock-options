@@ -9,3 +9,6 @@
 
 # Some Screenshot
 *.png
+
+# Cache
+__pycache__/
