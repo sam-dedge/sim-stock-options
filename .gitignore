@@ -15,3 +15,7 @@ __pycache__/
 
 # Zip of Report and Result
 *.zip
+
+# No .doc files
+*.docx
+*.doc
