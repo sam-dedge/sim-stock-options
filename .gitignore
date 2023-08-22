@@ -19,3 +19,7 @@ __pycache__/
 # No .doc files
 *.docx
 *.doc
+
+# No .txt or .pdf files
+*.txt
+*.pdf
